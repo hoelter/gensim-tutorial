@@ -1,0 +1,4 @@
+1) You can do this thing.
+2) But not this thing.
+
+Any other information about the MIT license you want.

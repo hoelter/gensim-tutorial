@@ -1,0 +1,3 @@
+1) An apache license thing you can do.
+2) Something you can or can't do.
+Very important information.
